@@ -27,8 +27,6 @@ Still figuring out exactly where "started in civil, ended up in code" lands long
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishantshah0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-
 ### Find me
 
 [![Website](https://img.shields.io/badge/nishantshah.xyz-1a1a1a?style=for-the-badge)](https://nishantshah.xyz)
