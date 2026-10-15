@@ -8,9 +8,9 @@ I started out wanting to build bridges. Somewhere along the way I fell for the s
 
 ## 🏆 Wins
 
-[![SummerHacks 2026 — 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
+[![SummerHacks 2026 · 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
-**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · 3rd place — Data Intelligence**
+**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · 3rd place · Data Intelligence**
 
 We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in Data Intelligence** at SummerHacks.
 
@@ -20,7 +20,7 @@ We built a game where you claim real landmarks with a photo. The photos stay beh
 
 ### 🏎️ Western Formula Racing · Perception
 
-Working on the perception side of Western Formula Racing — getting a race car to make sense of what it's seeing.
+Working on the perception side of Western Formula Racing, getting a race car to make sense of what it's seeing.
 
 ### 🏗️ Building [InfraHacks](https://github.com/infrahacks2027)
 
