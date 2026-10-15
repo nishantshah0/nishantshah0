@@ -6,7 +6,7 @@
 
 I started out wanting to build bridges. Somewhere along the way I fell for the software side instead. I still care about the same problem, really: how do you actually get the thing built. Code just turned out to be a much better tool for chasing that than I expected.
 
-## 🏆 A win I'm proud of
+## 🏆 Wins
 
 [![SummerHacks 2026 — 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
