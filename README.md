@@ -10,9 +10,9 @@ I started out wanting to build bridges. Somewhere along the way I fell for the s
 
 [![SummerHacks 2026 — 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
-**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · TECHNATION: Data Intelligence Track**
+**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · 3rd place — Data Intelligence**
 
-We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in the track** at SummerHacks.
+We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in Data Intelligence** at SummerHacks.
 
 [Code ↗](https://github.com/nishantshah0/LandMarked) · [Story & demo ↗](https://devpost.com/software/cascade-4nr5x8)
 
@@ -23,6 +23,10 @@ We built a game where you claim real landmarks with a photo. The photos stay beh
 Our aquaponics project took **2nd place (runner-up)** for the **People's Choice Award**. The [repo](https://github.com/nishantshah0/aquaponics) is the example website we showed at the competition.
 
 ## 🔨 Right now
+
+### 🏎️ Western Formula Racing · Perception
+
+Working on the perception side of Western Formula Racing — getting a race car to make sense of what it's seeing.
 
 ### 🏗️ Building [InfraHacks](https://github.com/infrahacks2027)
 
