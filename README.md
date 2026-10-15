@@ -6,7 +6,7 @@
 
 I started out wanting to build bridges. Somewhere along the way I fell for the software side instead. I still care about the same problem, really: how do you actually get the thing built. Code just turned out to be a much better tool for chasing that than I expected.
 
-## 🏆 A win I'm proud of
+## 🏆 Wins
 
 [![SummerHacks 2026 — 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
@@ -15,6 +15,12 @@ I started out wanting to build bridges. Somewhere along the way I fell for the s
 We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in the track** at SummerHacks.
 
 [Code ↗](https://github.com/nishantshah0/LandMarked) · [Story & demo ↗](https://devpost.com/software/cascade-4nr5x8)
+
+[![Western Engineering — People's Choice runner-up](https://img.shields.io/badge/Western_Engineering-People%27s_Choice_runner--up-A8A9AD?style=for-the-badge)](https://github.com/nishantshah0/aquaponics)
+
+**🥈 Aquaponics · Western Engineering Design Competition**
+
+Our aquaponics project took **2nd place (runner-up)** for the **People's Choice Award**. The [repo](https://github.com/nishantshah0/aquaponics) is the example website we showed at the competition.
 
 ## 🔨 Right now
 
