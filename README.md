@@ -10,9 +10,9 @@ I started out wanting to build bridges. Somewhere along the way I fell for the s
 
 [![SummerHacks 2026 · 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
-**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · 3rd place · Data Intelligence**
+**[LandMarked](https://devpost.com/software/cascade-4nr5x8) · 3rd place · TECHNATION: Best Use of Data Intelligence**
 
-We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in Data Intelligence** at SummerHacks.
+We built a game where you claim real landmarks with a photo. The photos stay behind as a shared visual history of the neighbourhood. Took home **3rd place in TECHNATION: Best Use of Data Intelligence** at SummerHacks.
 
 [Code ↗](https://github.com/nishantshah0/LandMarked) · [Story & demo ↗](https://devpost.com/software/cascade-4nr5x8)
 
@@ -31,10 +31,6 @@ Working on the perception side of Western Formula Racing, getting a race car to 
 ### 🏗️ Building [InfraHacks](https://github.com/infrahacks2027)
 
 I love hackathons, and I kept looking for a flagship one built around infrastructure and couldn't find one, so I started one.
-
-### 🚀 NASA Space Apps Challenge · London, ON
-
-**Local Lead · November 14–15, 2026.** Basically a mini space hackathon for my city.
 
 ### ⚡ A motor controller, from scratch
 
