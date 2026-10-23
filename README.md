@@ -6,6 +6,8 @@
 
 I started out wanting to build bridges. Somewhere along the way I fell for the software side instead. I still care about the same problem, really: how do you actually get the thing built. Code just turned out to be a much better tool for chasing that than I expected.
 
+**Looking for Summer 2027 software engineering and forward-deployed engineering internships. Open to relocating anywhere.**
+
 ## 🏆 Wins
 
 [![SummerHacks 2026 · 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
@@ -30,7 +32,7 @@ Working on the perception side of Western Formula Racing, getting a race car to 
 
 ### 🏗️ Building [InfraHacks](https://github.com/infrahacks2027)
 
-I love hackathons, and I kept looking for a flagship one built around infrastructure and couldn't find one, so I started one.
+I love hackathons, and I kept looking for a flagship one built around infrastructure and couldn't find one, so I started one. I also built [its platform](https://github.com/nishantshah0/infrahacks.org): applications, judging with per-judge score normalization, QR check-in, and a mentor queue, live at [infrahacks.org](https://infrahacks.org).
 
 ### ⚡ A motor controller, from scratch
 
@@ -40,6 +42,9 @@ Still figuring out exactly where "started in civil, ended up in code" lands long
 
 ## 🛠️ A few things I've built
 
+**📈 [PaperTrader](https://github.com/nishantshah0/paper-trader)**<br>
+A paper-trading engine in Java and Spring Boot. Limit orders rest in an order book and fill on their own, and double-spend and fill/cancel races are tested against real Postgres.
+
 **🎧 [Earshot](https://github.com/alexanderli07/Earshot) · Hack the 6ix '26**<br>
 A Raspberry Pi prototype that turns doorbells, alarms, and other sounds into light and vibration. Built with Alexander and Kairav.
 
@@ -47,18 +52,21 @@ A Raspberry Pi prototype that turns doorbells, alarms, and other sounds into lig
 Start with a goal, then explore the people and connections that might get you there.
 
 **📚 [CodeCite](https://github.com/nishantshah0/codecite)**<br>
-Ask a question about Canada's 2020 building code and get an answer with the actual clauses attached.
+Ask a question about Canada's 2020 building code and get an answer with the actual clauses attached. [Live demo ↗](https://nishantshah0.github.io/codecite/)
 
 ## ⚙️ Stuff I build with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
