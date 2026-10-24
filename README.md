@@ -6,7 +6,7 @@
 
 I started out wanting to build bridges. Somewhere along the way I fell for the software side instead. I still care about the same problem, really: how do you actually get the thing built. Code just turned out to be a much better tool for chasing that than I expected.
 
-**Looking for Summer 2027 software engineering and forward-deployed engineering internships. Open to relocating anywhere.**
+**Looking for Summer 2027 software engineering internships, including forward-deployed and customer-facing roles. Open to relocating anywhere.**
 
 ## 🏆 Wins
 
