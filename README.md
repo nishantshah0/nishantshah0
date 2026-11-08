@@ -23,6 +23,11 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 **[Aquaponics](https://github.com/nishantshah0/aquaponics)** · People's Choice runner-up, Western Engineering Design Competition. the repo is the example website we showed at the competition.
 
+## 🛠️ built
+
+- 📈 [papertrader](https://github.com/nishantshah0/paper-trader) · a paper-trading engine in java and spring boot. limit orders rest in an order book and fill on their own, and double-spend and fill/cancel races are tested against real postgres.
+- 📚 [codecite](https://github.com/nishantshah0/codecite) · ask a question about canada's building code and get an answer with the actual clauses attached. citation-grounded rag with a labeled retrieval eval. [live demo ↗](https://nishantshah0.github.io/codecite/)
+
 ## 🧑‍💻 hackathons
 
 i go to a lot of hackathons and run one, so i'm always taking notes for infrahacks. hackmit '26 was a highlight: a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that.
