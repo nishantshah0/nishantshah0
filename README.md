@@ -10,8 +10,8 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🔨 right now
 
-- 🏎️ perception @ western formula racing
-- 🏗️ running [infrahacks](https://github.com/infrahacks2027) and built [its platform](https://github.com/nishantshah0/infrahacks.org) ([infrahacks.org](https://infrahacks.org))
+- 🏗️ [infrahacks](https://github.com/infrahacks2027) · founded and run it, and built [its platform](https://github.com/nishantshah0/infrahacks.org) ([infrahacks.org](https://infrahacks.org)).
+- 🏎️ western formula racing · on the autonomous team, working on the car's perception model and its ros connection.
 
 ## 🏆 wins
 
@@ -25,7 +25,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🧑‍💻 hackathons
 
-hackmit '26 was the big one. being in a room with some of the smartest undergrads in the country made me want to go build something actually cool.
+i go to a lot of hackathons and run one, so i'm always taking notes for infrahacks. hackmit '26 was a highlight: a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that.
 
 - 🕸️ hackmit '26 · [yourweb](https://github.com/nishantshah0/arachne): start with a goal, then explore the people and connections that get you there. i led the pitch.
 - 🎧 hack the 6ix '26 · [earshot](https://github.com/alexanderli07/Earshot): a raspberry pi prototype that turns doorbells, alarms and other sounds into light and vibration.
