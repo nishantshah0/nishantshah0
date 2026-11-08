@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-shah-340869306)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/nishantshah2573)
 
-started in civil, ended up in code. engineering @ western, previously data & analytics intern @ the byng group.
+software engineering @ western, previously data & analytics intern @ the byng group.
 
 looking for summer 2027 swe internships (forward-deployed too). open to relocating.
 
@@ -12,13 +12,16 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 - 🏎️ perception @ western formula racing
 - 🏗️ running [infrahacks](https://github.com/infrahacks2027) and built [its platform](https://github.com/nishantshah0/infrahacks.org) ([infrahacks.org](https://infrahacks.org))
-- ⚡ building a motor controller from scratch (stm32, closed-loop foc)
 
 ## 🏆 wins
 
 [![SummerHacks 2026 · 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
 **[LandMarked](https://devpost.com/software/cascade-4nr5x8)** · 3rd place, TECHNATION: Best Use of Data Intelligence. a game where you claim real landmarks with a photo, and the photos stay behind as a shared visual history of the neighbourhood. [code ↗](https://github.com/nishantshah0/LandMarked) · [demo ↗](https://devpost.com/software/cascade-4nr5x8)
+
+[![Western Engineering · People's Choice runner-up](https://img.shields.io/badge/Western_Engineering-People%27s_Choice_runner--up-6B46A5?style=for-the-badge&labelColor=4F2683)](https://github.com/nishantshah0/aquaponics)
+
+**[Aquaponics](https://github.com/nishantshah0/aquaponics)** · People's Choice runner-up, Western Engineering Design Competition. the repo is the example website we showed at the competition.
 
 ## ⚙️ stack
 
