@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-shah-340869306)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/nishantshah2573)
 
-started in civil, ended up in code. engineering @ western, previously data & analytics intern @ the byng group.
+software engineering @ western, previously data & analytics intern @ the byng group.
 
 looking for summer 2027 swe internships (forward-deployed too). open to relocating.
 
@@ -12,7 +12,6 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 - 🏎️ perception @ western formula racing
 - 🏗️ running [infrahacks](https://github.com/infrahacks2027) and built [its platform](https://github.com/nishantshah0/infrahacks.org) ([infrahacks.org](https://infrahacks.org))
-- ⚡ building a motor controller from scratch (stm32, closed-loop foc)
 
 ## 🏆 wins
 
