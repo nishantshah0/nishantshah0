@@ -10,14 +10,25 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🔨 right now
 
-- 🏎️ perception @ western formula racing
-- 🏗️ running [infrahacks](https://github.com/infrahacks2027) and built [its platform](https://github.com/nishantshah0/infrahacks.org) ([infrahacks.org](https://infrahacks.org))
+- 🏗️ [infrahacks](https://github.com/infrahacks2027) · founded and run it. the 2027 edition is in person in waterloo with uwaterloo's future cities institute, and i built [the platform](https://github.com/nishantshah0/infrahacks.org) behind it: applications, judging with per-judge score normalization, qr check-in and a mentor queue, live at [infrahacks.org](https://infrahacks.org).
+- 🏎️ western formula racing · on the autonomous team, working on the car's perception model and its ros connection.
+- 🎮 jelly brain games · my roblox studio since jan 2026. rebuilt the onboarding and core loop for our second game and it peaked at ~1k concurrent players.
+- 🚁 up next · joining a government-funded autonomous drone project in jan 2027, on the software side.
 
 ## 🏆 wins
 
 [![SummerHacks 2026 · 3rd place](https://img.shields.io/badge/SummerHacks_2026-3rd_place-CD7F32?style=for-the-badge)](https://devpost.com/software/cascade-4nr5x8)
 
 **[LandMarked](https://devpost.com/software/cascade-4nr5x8)** · 3rd place, TECHNATION: Best Use of Data Intelligence. a game where you claim real landmarks with a photo, and the photos stay behind as a shared visual history of the neighbourhood. [code ↗](https://github.com/nishantshah0/LandMarked) · [demo ↗](https://devpost.com/software/cascade-4nr5x8)
+
+## 🧑‍💻 hackathons
+
+i go to a lot of hackathons and run one, so i'm always taking notes for infrahacks. hackmit '26 was a highlight: a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that.
+
+- 🕸️ hackmit '26 · [yourweb](https://github.com/nishantshah0/arachne): start with a goal, then explore the people and connections that get you there. i led the pitch.
+- 🎧 hack the 6ix '26 · [earshot](https://github.com/alexanderli07/Earshot): a raspberry pi prototype that turns doorbells, alarms and other sounds into light and vibration.
+- 📸 summerhacks '26 · [landmarked](https://github.com/nishantshah0/LandMarked): 3rd place, TECHNATION: Best Use of Data Intelligence.
+- ⏭️ next up: hack western 13
 
 ## ⚙️ stack
 
