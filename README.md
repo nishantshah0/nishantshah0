@@ -24,7 +24,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 i go to a lot of hackathons and run one, so i'm always taking notes for infrahacks.
 
-**hackmit '26** was the highlight. a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that. we built [yourweb](https://github.com/nishantshah0/arachne): start with a goal, then explore the people and connections that get you there. i led the pitch.
+**hackmit '26** was the highlight. a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that. we built [yourweb](https://github.com/nishantshah0/arachne).
 
 - **hack the 6ix '26** · [earshot](https://github.com/alexanderli07/Earshot): a raspberry pi that turns doorbells, alarms and other sounds into light and vibration
 - **next up** · hack western 13
