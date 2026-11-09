@@ -1,33 +1,30 @@
 # hey, I'm Nishant 👋
 
-software engineering @ western · previously data & analytics intern @ the byng group  
+software engineering @ western · prev. data & analytics intern @ the byng group  
 looking for summer 2027 swe internships (forward-deployed too). open to relocating.
 
 [nishantshah.xyz](https://nishantshah.xyz) · [linkedin](https://linkedin.com/in/nishant-shah-340869306) · [devpost](https://devpost.com/nishantshah2573)
 
 ## 🔨 right now
 
-- **[infrahacks](https://github.com/infrahacks2027)** · co-founded it, lead the 12-person team, and built [the platform](https://github.com/nishantshah0/infrahacks.org) it runs on ([infrahacks.org](https://infrahacks.org))
-- **western formula racing** · perception on the autonomous team. took our cone detector from **38% → 71% mAP50**, mostly by fixing the data, and built the c++ ros 2 adapter · [write-up ↗](https://nishantshah.xyz/notes-cone-detector.html)
+- **[infrahacks](https://github.com/infrahacks2027)** · co-founder, leading a 12-person team. built [the platform](https://github.com/nishantshah0/infrahacks.org) · [infrahacks.org](https://infrahacks.org)
+- **western formula racing** · perception. cone detector **38% → 71% mAP50**, mostly by fixing the data · [write-up ↗](https://nishantshah.xyz/notes-cone-detector.html)
 
 ## 🏆 wins
 
-- **[landmarked](https://github.com/nishantshah0/LandMarked)** · 3rd place, TECHNATION: Best Use of Data Intelligence @ summerhacks '26. claim real landmarks with a photo; the photos become the neighbourhood's shared history · [devpost ↗](https://devpost.com/software/cascade-4nr5x8)
+- **[landmarked](https://github.com/nishantshah0/LandMarked)** · 3rd place, TECHNATION: Best Use of Data Intelligence @ summerhacks '26 · [devpost ↗](https://devpost.com/software/cascade-4nr5x8)
 - **[aquaponics](https://github.com/nishantshah0/aquaponics)** · People's Choice runner-up, Western Engineering Design Competition
 
 ## 🛠️ built
 
-- **[papertrader](https://github.com/nishantshah0/paper-trader)** · java + spring boot paper-trading engine. resting limit orders fill on their own; double-spend and fill/cancel races are tested against real postgres
-- **[codecite](https://github.com/nishantshah0/codecite)** · ask about canada's building code, get an answer with the actual clauses cited. rag with a labeled retrieval eval · [demo ↗](https://nishantshah0.github.io/codecite/)
+- **[papertrader](https://github.com/nishantshah0/paper-trader)** · java + spring boot trading engine. double-spend and fill/cancel races tested on real postgres
+- **[codecite](https://github.com/nishantshah0/codecite)** · building-code answers with the actual clauses cited, plus a retrieval eval · [demo ↗](https://nishantshah0.github.io/codecite/)
 
 ## 🧑‍💻 hackathons
 
-i go to a lot of hackathons and run one, so i'm always taking notes for infrahacks.
-
 **hackmit '26** was the highlight. a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that. we built [yourweb](https://github.com/nishantshah0/arachne).
 
-- **hack the 6ix '26** · [earshot](https://github.com/alexanderli07/Earshot): a raspberry pi that turns doorbells, alarms and other sounds into light and vibration
-- **next up** · hack western 13
+also [earshot](https://github.com/alexanderli07/Earshot) @ hack the 6ix '26 · next up: hack western 13
 
 ## ⚙️ stack
 
