@@ -16,7 +16,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🛠️ built
 
-- **[crossbook](https://github.com/nishantshah0/cross-book)** · java + spring boot exchange engine with a bot market and planted spoofers. fake orders boost a spoofer's trading **2.4–2.8×** over an honest control, and every run replays to the millisecond
+- **[crossbook](https://github.com/nishantshah0/cross-book)** · java + spring boot exchange engine with a bot market and planted spoofers. across 30 paired seeds, fake orders got a spoofer's real orders traded **2.5×** as much as an honest control on every seed, and a rule detector caught **10/10** spoofers on unseen seeds with 0 false alarms
 - **[codecite](https://github.com/nishantshah0/codecite)** · building-code answers with the actual clauses cited, plus a retrieval eval · [demo ↗](https://nishantshah0.github.io/codecite/)
 
 ## 🧑‍💻 hackathons
