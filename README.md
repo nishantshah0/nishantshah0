@@ -16,7 +16,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🛠️ built
 
-- **[papertrader](https://github.com/nishantshah0/paper-trader)** · java + spring boot matching engine. users trade with each other, partial fills, concurrency tested on real postgres
+- **[crossbook](https://github.com/nishantshah0/cross-book)** · java + spring boot exchange engine with a bot market and planted spoofers. fake orders boost a spoofer's trading **2.4–2.8×** over an honest control, and every run replays to the millisecond
 - **[codecite](https://github.com/nishantshah0/codecite)** · building-code answers with the actual clauses cited, plus a retrieval eval · [demo ↗](https://nishantshah0.github.io/codecite/)
 
 ## 🧑‍💻 hackathons
