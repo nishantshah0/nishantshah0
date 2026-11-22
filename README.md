@@ -12,6 +12,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🏆 wins
 
+- **[aegis](https://github.com/nishantshah0/Aegis-voice-agent)** · 1st, Best Use of Auth0 @ hack western 13 · pharmacy phone agent where the AI can only act through 12 code-checked tools, so a fooled model still can't approve a refill. team of 4, each running a coding agent; i built the platform, auth and phone line and ran the agent setup
 - **[landmarked](https://github.com/nishantshah0/LandMarked)** · 3rd place, TECHNATION: Best Use of Data Intelligence @ summerhacks '26 · [devpost ↗](https://devpost.com/software/cascade-4nr5x8)
 
 ## 🛠️ built
@@ -23,7 +24,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 **hackmit '26** was the highlight. a weekend around some of the sharpest undergrads in the country raised my bar for what's worth building, and i'm trying to get into a lot more rooms like that. we built [yourweb](https://github.com/nishantshah0/arachne).
 
-also [earshot](https://github.com/alexanderli07/Earshot) @ hack the 6ix '26 · next up: hack western 13
+also [earshot](https://github.com/alexanderli07/Earshot) @ hack the 6ix '26 · [aegis](https://github.com/nishantshah0/Aegis-voice-agent) @ hack western 13
 
 ## ⚙️ stack
 
