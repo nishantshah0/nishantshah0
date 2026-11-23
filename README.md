@@ -12,7 +12,7 @@ looking for summer 2027 swe internships (forward-deployed too). open to relocati
 
 ## 🏆 wins
 
-- **[aegis](https://github.com/nishantshah0/Aegis-voice-agent)** · 1st, Best Use of Auth0 @ hack western 13 · pharmacy phone agent where the AI can only act through 12 code-checked tools, so a fooled model still can't approve a refill. team of 4, each running a coding agent; i built the platform, auth and phone line and ran the agent setup
+- **[aegis](https://github.com/nishantshah0/Aegis-voice-agent)** · 1st, Best Use of Auth0 @ hack western 13 · pharmacy phone agent a fooled AI can't misuse
 - **[landmarked](https://github.com/nishantshah0/LandMarked)** · 3rd place, TECHNATION: Best Use of Data Intelligence @ summerhacks '26 · [devpost ↗](https://devpost.com/software/cascade-4nr5x8)
 
 ## 🛠️ built
